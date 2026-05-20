@@ -31,3 +31,4 @@ C:\Users\dhruvbhatt\Downloads\WebApp2\webapp2api\obj\Debug\net10.0\refint\WebApp
 C:\Users\dhruvbhatt\Downloads\WebApp2\webapp2api\obj\Debug\net10.0\WebApp2API.pdb
 C:\Users\dhruvbhatt\Downloads\WebApp2\webapp2api\obj\Debug\net10.0\WebApp2API.genruntimeconfig.cache
 C:\Users\dhruvbhatt\Downloads\WebApp2\webapp2api\obj\Debug\net10.0\ref\WebApp2API.dll
+C:\Users\dhruvbhatt\Downloads\WebApp2\webapp2api\obj\Debug\net10.0\WebApp2API.sourcelink.json
